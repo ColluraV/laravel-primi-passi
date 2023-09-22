@@ -1,0 +1,11 @@
+.centrale {
+
+    max-height: 80vh;
+}
+
+body {
+
+    background: rgb(246,246,246);
+    background: radial-gradient(circle, rgba(246,246,246,0) 58%, rgba(237,73,209,1) 100%);
+        
+}    
